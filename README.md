@@ -2,7 +2,7 @@
 
 # Physical Oceanography Curriculum Ideas
 
-This repository is intended to include various oceanography-based class activities that I've designed for as part of the [`Moana Project`](https://www.moanaproject.org/). In the future, I plan to add additional class material.
+This repository is intended to include various oceanography-based class activities that I've designed as part of the [`Moana Project`](https://www.moanaproject.org/). In the future, I plan to add additional class material.
 
 ## Temperature and Current Velocity Mapping
 
@@ -10,10 +10,6 @@ The "Opotiki class" Jupyter notebook creates figures for year 9-10 students to p
 
 Requires access to MetService's 28-year ocean hindcast: https://www.moanaproject.org/hindcast
 or could be edited for use with other hydrodynamic ocean model output.
-
-## Licensing
-
-Please see [LICENSE.md](https://github.com/jjakoboski/ocean_mapping_class_activity/blob/main/LICENSE.md) for the license under which this code can be shared.  
 
 ## Attribution Statement
 
